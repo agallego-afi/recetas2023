@@ -1,0 +1,7 @@
+Ingredientes:
+ - Carne
+ - Queso
+ - Tomate
+
+ Instrucciones:
+  - blablabla
